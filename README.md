@@ -1,5 +1,5 @@
 ## About me
-My name is Christopher and I am a Security Researcher focusing on Solidity and the EVM. I was introduced to the web3 world in 2024 and have started competiting in security contests in 2025.
+Hi! My name is Christopher and I am a Security Researcher focusing on Solidity and the EVM. I was introduced to the web3 world in 2024 and have started competiting in security contests in 2025.
 
 Below you can find my results in my short auditing career.
 
@@ -7,7 +7,7 @@ I also have rust and SVM knowledge, but have no competitive results so far outis
 
 Follow me on X: https://x.com/chrissavov
 
-## Public audits contests
+## Public audit contests
 
 | Platform | Date | Protocol | Findings | Notes | Report |
 | -------- | ---- |--------- | -------- | ----- | ------ |
